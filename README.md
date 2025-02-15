@@ -59,7 +59,30 @@ Description: This program checks if a number is prime. It uses a loop up to √n
 
 How to Run: javac PrimeCheck.java java PrimeCheck
 
-Concepts Used:loops conditional statements, and number properties.
+Concepts Used:loops conditional statements, and number properties
+
+6.String Reversal
+File: ReverseString.java
+
+Description: This program takes a string input and reverses it using StringBuilder.
+
+How to Run: javac ReverseString.java java ReverseString
+
+Concepts Used:string manipulation, loops, or build in string methods.
+
+Prerequisites :
+
+Install Java Development Kit (JDK).
+
+Ensure javac and java commands are available in your terminal.
+
+License
+
+This project is open-source and available for use..
+
+
+
+
 
 
 
