@@ -16,7 +16,7 @@ List of Programs:
 
 
 
-Student Data Input
+1.Student Data Input
 File: StudentData.java
 
 Description: This program takes input for student details, including name, ID, age, fee, and grade. It then displays the collected information.
@@ -24,4 +24,24 @@ Description: This program takes input for student details, including name, ID, a
 How to Run: javac StudentData.java java StudentData
 
 Concepts Used: classes, objects, constructors.
+
+2.Sum of Two Numbers
+File: SumTwoNumbers.java
+
+Description: This program takes two integer inputs from the user and calculates their sum. It then displays the result.
+
+How to Run: javac SumTwoNumbers.java java SumTwoNumbers
+
+Concepts Used: Basic input output and arithmetic operations.
+
+3.Even or Odd Checker
+File: EvenOddCheck.java
+
+Description: This program checks whether a given number is even or odd using the modulus operator (%).
+
+How to Run: javac EvenOddCheck.java java EvenOddCheck
+
+Concepts Used: Conditional statements (if-else), input from the user.
+
+
 
