@@ -41,7 +41,7 @@ Description: This program checks whether a given number is even or odd using the
 
 How to Run: javac EvenOddCheck.java java EvenOddCheck
 
-Concepts Used: Conditional statements (if-else), input from the user.Factorial Calculation
+Concepts Used: Conditional statements (if-else), input from the user.
 
 4.Factorial Calculation
 File: Factorial.java
@@ -51,6 +51,18 @@ Description: This program calculates the factorial of a given number using a for
 How to Run: javac Factorial.java java Factorial
 
 Concepts Used:loops(for or while), mathmatical operations.
+
+5.Prime Number Checker
+File: PrimeCheck.java
+
+Description: This program checks if a number is prime. It uses a loop up to √n for optimization.
+
+How to Run: javac PrimeCheck.java java PrimeCheck
+
+Concepts Used:loops conditional statements, and number properties.
+
+
+
 
 
 
