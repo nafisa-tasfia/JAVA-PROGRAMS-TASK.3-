@@ -13,3 +13,15 @@ List of Programs:
 5.Prime Number Checker
 
 6.String Reversal
+
+
+
+Student Data Input
+File: StudentData.java
+
+Description: This program takes input for student details, including name, ID, age, fee, and grade. It then displays the collected information.
+
+How to Run: javac StudentData.java java StudentData
+
+Concepts Used: classes, objects, constructors.
+
